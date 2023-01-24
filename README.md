@@ -1,3 +1,4 @@
-* Shows code for p5.js
-* Shows code for HTML
+* Shows code for a cool game
+* P5.js code
 * More in the future.
+* give me your feedback.
